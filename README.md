@@ -3,7 +3,7 @@
 
 ### FLOWCHART
 
-![Gambar 1](screenshot/flowchart.png)
+![Gambar 1](gambar/flowchart.png)
 ### CODE
 
 ```sh
@@ -102,3 +102,8 @@ hapus(nama)
 ubah(nama)
 ```
 8. SELESAI
+
+## **TAMPILAN PROGRAM**
+![img](gambar/Screenshot%20(29).png)
+![img](gambar/Screenshot%20(30).png)
+![img](gambar/Screenshot%20(31).png)
