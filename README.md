@@ -3,7 +3,7 @@
 
 ### FLOWCHART
 
-![Gambar 1](gambar/flowchart.png)
+![img](gambar/flowchart.jpg)
 ### CODE
 
 ```sh
